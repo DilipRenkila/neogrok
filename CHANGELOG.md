@@ -11,6 +11,7 @@
 
 ### Patch Changes
 
+
 - e38026c: Bump all tooling dependencies (svelte, vite, tailwind, eslint, etc)
 
 ## 1.1.2
